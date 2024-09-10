@@ -152,7 +152,7 @@ ORDER BY [1990 Forest Percentage] DESC;
 --      ,but it only saw an increase of _, much lower than the figure for _.
 --      _ and _ are of course very large countries in total land area,
 --      so when we look at the largest percent change in forest area from 1990 to 2016,
---      we aren’t surprised to find a much smaller country listed at the top. 
+--      we arenâ€™t surprised to find a much smaller country listed at the top. 
 --   __ increased in forest area by __% from 1990 to 2016. 
 
 
